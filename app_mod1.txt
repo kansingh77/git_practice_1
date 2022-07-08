@@ -2,10 +2,13 @@ This is app module 1
 
 # Sample code:
 
-fn add()
+fn add(x,y)
 {
 
     x = y + 10
     return(x)
 
 }
+
+# code enhanced to call add fn
+add()
