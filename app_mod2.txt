@@ -1,0 +1,11 @@
+This is app module 2
+
+# Sample code:
+
+fn multiply()
+{
+
+    x = y * 10
+    return(x)
+
+}
